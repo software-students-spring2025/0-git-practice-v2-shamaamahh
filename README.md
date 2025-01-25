@@ -1,2 +1,5 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Git Practice 
+
+[Article Link](https://hbr.org/2021/07/career-crush-what-is-it-like-to-be-a-software-engineer) 
+
+The article covers the career journey of Lindsey Redd, who has worked for many leading tech companies. She talks about her path and challenges, as well as offering advice to those interested in becoming a software engineer. Some of my favorite takeaways from the article are: 1. Introductory computer science classes make the subject accessible, and is often a way that others may switch into the discipline from a different major. 2. Internships are critical, and obtaining them requires more than just technical skills - they also require communication, curiosity, and the ability to solve difficult problems. 3. Interviewing for roles often includes coding challenges, which may not reflect actual job tasks. 4. Navigating the terrain of the industry may be difficult, but tools like LinkedIn make the job hunt easier.
