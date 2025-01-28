@@ -6,4 +6,4 @@ The article covers the career journey of Lindsey Redd, who has worked for many l
 
 ### Comment from Shamaamah Ahmad
 
-In the article, one part discusses how software engineering requires constant learning to keep up with technological advances. I agree with this point, as the tech landscape evolves rapidly, making it essential for engineers to be lifelong learners. This constant challenge can be exciting, but also demanding. It’s a field where adapting to change becomes the norm, and those who thrive are typically the ones who embrace new tools with positivity.
+In the article, one part discusses how software engineering requires constant learning to keep up with technological advances. I agree with this point, as the tech landscape evolves rapidly, making it essential for engineers to be lifelong learners. This constant challenge can be exciting, but also demanding. It’s a field where adapting to change becomes the norm, and those who thrive are typically the ones who embrace new tools with positivity!
