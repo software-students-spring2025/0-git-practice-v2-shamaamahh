@@ -6,4 +6,4 @@ This article highlights how software development is dynamic and constantly evolv
 
 ## Comment from Apollo Wyndham
 
-From the very beginning the article highlights how AI is not necessarily the end of software development but instead is a new opportunity for developers to focus in on skills that are not easily replacable. It brings up how important it is to adapt and work alongside AI in a way that will benefit the worker and the company. Developers who learn to use the tool will have even more opportunities when their more repetitive tasks are automated.
+This article offers an interesting perspective on the advancement of AI for software developers. From the very beginning the article highlights how AI is not necessarily the end of software development but instead is a new opportunity for developers to focus in on skills that are not easily replacable. It brings up how important it is to adapt and work alongside AI in a way that will benefit the worker and the company. Developers who learn to use the tool will have even more opportunities when their more repetitive tasks are automated. 
